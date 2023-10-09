@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raihan Rasheed</h1>
 <h3 align="center">📊 Data Scientist | 🤖 Machine Learning Enthusiast | 🌐 Open Source Advocate</h3>
-<img align="center" alt="Data and Mathe" src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif">
+<div align="center">
+ <img alt="One Does not simply become a brilliant data scientist" src="https://interviewquery-cms-images.s3-us-west-1.amazonaws.com/b3bb5ddd-d793-475d-b823-8e0eafe183f9.jpg">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kira2906&label=Profile%20views&color=0e75b6&style=flat" alt="kira2906" /> </p>
 
 - 🔍 Passionate about uncovering insights from data and transforming them into actionable solutions. I love tackling real-world problems using data-driven approaches.
