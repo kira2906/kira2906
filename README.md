@@ -11,8 +11,8 @@
 
 - ⚡ Fun fact **Data scientists spend so much time exploring data that they've become the 'Sherlock Holmes' of the digital age, searching for clues and solving mysteries hidden in the numbers**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/raihanrasheed98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihanrasheed98" height="30" width="40" /></a>
 <a href="https://kaggle.com/raihanrasheed1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raihanrasheed1998" height="30" width="40" /></a>
 <a href="https://fb.com/raihan.rasheed.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raihan.rasheed.9" height="30" width="40" /></a>
