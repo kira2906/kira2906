@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Raihan Rasheed</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | Passionate about using data to solve real-world problems.</h3>
+<h3 align="center">📊 Data Scientist | 🤖 Machine Learning Enthusiast | 🌐 Open Source Advocate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kira2906&label=Profile%20views&color=0e75b6&style=flat" alt="kira2906" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning Technology**
+- 🔍 Passionate about uncovering insights from data and transforming them into actionable solutions. I love tackling real-world problems using data-driven approaches.
 
-- 💬 Ask me about **Data Science, Music and Anything tech!**
+- 🌱 Currently exploring the realms of **deep learning** and **natural language processing**. Always eager to learn and collaborate with like-minded individuals.
 
-- 📫 How to reach me **raihanrasheed1998@gmail.com**
+- 📚 Check out my repositories for projects related to data analysis, machine learning, and data visualization. Let's explore the data together!
 
-- ⚡ Fun fact **Data scientists spend so much time exploring data that they've become the 'Sherlock Holmes' of the digital age, searching for clues and solving mysteries hidden in the numbers**
+- 📫 Reach me at **raihanrasheed1998@gmail.com** or connect with me on LinkedIn.
+
+- 🎶 When not coding, you'll find me exploring new hiking trails, playing my guitar, or trying out new recipes in the kitchen.
+
+- 🤝 Open to collaboration and always up for a good data challenge. Let's connect and make data-driven magic happen!
+ 
+- 💬 Ask me about Data Science, Music and Anything tech!
+
+- ⚡ Fun fact *Data scientists spend so much time exploring data that they've become the 'Sherlock Holmes' of the digital age, searching for clues and solving mysteries hidden in the numbers*
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
